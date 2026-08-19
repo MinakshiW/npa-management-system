@@ -1,0 +1,25 @@
+# Environment variables / secrets
+.env
+.env.*
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database
+*.sqlite3
+db.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Celery
+celerybeat-schedule.*
+
+*.sql
